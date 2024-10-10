@@ -258,5 +258,6 @@ main .section.highlight {
 
 .center-text {
     text-align: center;
+    background-color: aqua;
 }
 
